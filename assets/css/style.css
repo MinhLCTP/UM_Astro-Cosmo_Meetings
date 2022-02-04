@@ -68,7 +68,7 @@
 }
 
 table {
-    display: block;
+    display: table;
     overflow: auto;
     padding: 5px;
 	border-collapse: collapse;
@@ -77,7 +77,6 @@ table {
 }
 
 td, th {
-	display: block;
 	overflow: auto;
 	border: 1px solid black;
 }

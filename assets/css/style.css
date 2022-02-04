@@ -68,7 +68,9 @@
 }
 
 table {
-    display: table;
+    display: inline-block;
+    overflow: auto;
+    background: var(--md-default-bg-color);
     padding: 5px;
 	border-collapse: collapse;
 	border-spacing: 0;

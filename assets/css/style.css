@@ -67,7 +67,7 @@
 	color: #FFFFFF;
 }
 
-table, th, tr, td {
+table, th, tr {
     display: table;
     padding: 5px;
 	border-collapse: collapse;

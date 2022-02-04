@@ -1,12 +1,12 @@
  —--
  —--
 @import "{{ site.theme }}";
-.site-header {
+.outer {
  background-color: blue;
 }
-.site-header_wrap {
- background-color: blue;
-}
+//.header_wrap {
+ //background-color: blue;
+//}
 //.site-title, .page-link {
  //color: white !important;
 //}

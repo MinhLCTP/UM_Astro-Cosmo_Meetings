@@ -67,8 +67,21 @@
 	color: #FFFFFF;
 }
 
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
-  border: 1px solid black
+#table {
+    display: table;
+    padding: 5px;
+	border-collapse: collapse;
+	border-spacing: 0;
+	border: 1px solid black
+}
+.tr {
+    display: table-row;
+    padding: 5px;
+}
+.td {
+    display: table-cell;
+    padding: 5px;
+    width: 150px;
+    border: #000000 solid 1px;
+    margin: 5px;
 }

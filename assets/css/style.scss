@@ -7,12 +7,12 @@ Full-Width Styles
 *******************************************************************************/
 
 .outer {
-  background-color: #00274C;
+  background: #00274C;
   width: 100%;
 }
 
 .inner {
-  background-color: #00274C;
+  background: #00274C;
   position: relative;
   max-width: 640px;
   padding: 20px 10px;
@@ -20,11 +20,15 @@ Full-Width Styles
 }
 
 #header_wrap {
-  background-color: #00274C;
+  background: #00274C;
+}
+
+#header_wrap .outer {
+  background: #00274C;
 }
 
 #header_wrap .inner {
-  background-color: #00274C;
+  background: #00274C;
   padding: 50px 10px 30px 10px;
 }
 

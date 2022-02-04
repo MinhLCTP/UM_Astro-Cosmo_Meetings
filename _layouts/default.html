@@ -12,22 +12,25 @@
   </head>
 
   <style>
-	.outer {
+	.head_outer {
 		background-color: #00274C;
 	}
-	.outer h1 {
-		<!--color: #FFCB05;-->
+	.head_inner {
+		background-color: #00274C;
 	}
-	.outer h2 {
-		<!--color: #FFCB05;-->
+	.head_outer h1 {
+		color: #FFCB05;
+	}
+	.head_outer h2 {
+		color: #FFCB05;
 	}
   </style>
 
   <body>
 
     <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
+    <div id="header_wrap" class="head_outer">
+        <header class="head_inner">
           <!--{% if site.github.is_project_page %}-->
             <!--<a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>-->
           <!--{% endif %}-->
@@ -45,15 +48,15 @@
     </div>
 
     <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
+    <div id="main_content_wrap" class="main_outer">
+      <section id="main_content" class="main_inner">
         {{ content }}
       </section>
     </div>
 
     <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
+    <div id="footer_wrap" class="foot_outer">
+      <footer class="foot_inner">
         {% if site.github.is_project_page %}
         <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}

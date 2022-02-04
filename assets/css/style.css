@@ -68,7 +68,7 @@
 }
 
 #table {
-    display: table;
+    display: block;
     padding: 5px;
 	border-collapse: collapse;
 	border-spacing: 0;

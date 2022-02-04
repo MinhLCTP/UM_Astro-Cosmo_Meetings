@@ -1,23 +1,19 @@
  —--
  —--
-@import 'jekyll-theme-slate';
+@import "jekyll-theme-slate";
 
-/*******************************************************************************
-Full-Width Styles
-*******************************************************************************/
+//.outer {
+  //background: #00274C;
+  //width: 100%;
+//}
 
-.outer {
-  background: #00274C;
-  width: 100%;
-}
-
-.inner {
-  background: #00274C;
-  position: relative;
-  max-width: 640px;
-  padding: 20px 10px;
-  margin: 0 auto;
-}
+//.inner {
+  //background: #00274C;
+  //position: relative;
+  //max-width: 640px;
+  //padding: 20px 10px;
+  //margin: 0 auto;
+//}
 
 #header_wrap {
   background: #00274C;
@@ -99,115 +95,4 @@ Full-Width Styles
 
 #footer_wrap {
   background: #212121;
-}
-
-
-
-/*******************************************************************************
-Small Device Styles
-*******************************************************************************/
-
-@media screen and (max-width: 992px) {
-  img {
-    max-width: 100%;
-  }
-}
-
-@media screen and (max-width: 480px) {
-  body {
-    font-size:14px;
-  }
-
-  #downloads {
-    display: none;
-  }
-
-  .inner {
-    min-width: 320px;
-    max-width: 480px;
-  }
-
-  #project_title {
-  color: #FFCB05;
-  font-size: 32px;
-  }
-
-  h1 {
-    font-size: 28px;
-  }
-
-  h2 {
-    font-size: 24px;
-  }
-
-  h3 {
-    font-size: 21px;
-  }
-
-  h4 {
-    font-size: 18px;
-  }
-
-  h5 {
-    font-size: 14px;
-  }
-
-  h6 {
-    font-size: 12px;
-  }
-
-  code, pre {
-    font-size: 11px;
-  }
-
-}
-
-@media screen and (max-width: 320px) {
-  body {
-    font-size:14px;
-  }
-
-  #downloads {
-    display: none;
-  }
-
-  .inner {
-    min-width: 240px;
-    max-width: 320px;
-  }
-
-  #project_title {
-  font-size: 28px;
-  }
-
-  h1 {
-    font-size: 24px;
-  }
-
-  h2 {
-    font-size: 21px;
-  }
-
-  h3 {
-    font-size: 18px;
-  }
-
-  h4 {
-    font-size: 16px;
-  }
-
-  h5 {
-    font-size: 14px;
-  }
-
-  h6 {
-    font-size: 12px;
-  }
-
-  code, pre {
-    min-width: 240px;
-    max-width: 320px;
-    font-size: 11px;
-  }
-
 }

@@ -68,7 +68,7 @@
 }
 
 table {
-    display: inline-block;
+    display: block;
     overflow: auto;
     padding: 5px;
 	border-collapse: collapse;
@@ -77,10 +77,7 @@ table {
 }
 
 td, th {
-	display: inline-block;
+	display: block;
 	overflow: auto;
 	border: 1px solid black;
-	box-shadow:
-     0 px2rem(4px) px2rem(10px) hsla(0, 0%, 0%, 0.05),
-     0 0           px2rem(1px)  hsla(0, 0%, 0%, 0.1);
 }

@@ -1,12 +1,18 @@
-## Welcome to GitHub Pages
+## The (unofficial) list of astro & cosmo meetings at the University of Michigan
 
-You can use the [editor on GitHub](https://github.com/MinhLCTP/UM_Astro-Cosmo_Meetings/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This site maintains a list of UM meetings in astronomy, astrophysics and cosmology. These include, but not limited to, open group meetings, journal clubs, seminars and colloquiums. Please note that meetings can be held either weekly or bi-weekly. The latter is indicated by a (B) following their names.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you know some meetings that should be added to this list, please kindly contact us.
 
-## Markdown
+## Meeting schedule
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+| Time        | Name        | Location-Link | Organizer(s) |
+| :---        | :---		| :---			| :---         |
+| Monday      | Title       | Here's this   |
+| Tuesday   | Text        | And more      |
+| Wednesday   | Text        | And more      |
+| Thursday   | Text        | And more      |
+| Friday   | Text        | And more      |
 
 ```markdown
 Syntax highlighted code block

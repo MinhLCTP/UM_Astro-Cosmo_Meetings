@@ -67,6 +67,14 @@
   padding-top: 40px;
 }
 
-#footer_wrap {
-  background: #212121;
+#footer_wrap .outer {
+  background-color: #00274C;
+}
+
+#footer_wrap .inner {
+  background-color: #00274C;
+}
+
+#footer_wrap .copyright {
+	color: #FFCB05;
 }

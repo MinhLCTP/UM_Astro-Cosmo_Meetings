@@ -7,12 +7,12 @@ If you know some meetings that should be added to this list, please kindly conta
 ## Meeting schedule
 
 | Time        | Name        | Location-Link | Organizer(s) |
-| :---        | :---		| :---			| :---         |
-| Monday      | Title       | Here's this   |
-| Tuesday   | Text        | And more      |
-| Wednesday   | Text        | And more      |
-| Thursday   | Text        | And more      |
-| Friday   | Text        | And more      |
+| ----------- | ----------- | ------------- | ------------ |
+| Monday <br> 10AM <br> 4PM  | <br> Cosmology Group Meeting <br> HEP-Astro Seminar      | <br> 3246 RL and [Zoom](https://umich.zoom.us/j/3169541237) <br> [Zoom](https://umich.zoom.us/j/91409362110?pwd=UDlja2FuYlZWVFNEMWFrOTlkWFNEZz09)  | <br> [Dragan Huterer](mailto:huterer@umich.edu) <br>        |
+| Tuesday     | Text        | And more      | More		   |
+| Wednesday   | Text        | And more      | More         |
+| Thursday    | Text        | And more      | More         |
+| Friday      | Text        | And more      | More		   |
 
 ```markdown
 Syntax highlighted code block

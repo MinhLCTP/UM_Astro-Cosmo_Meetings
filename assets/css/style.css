@@ -70,13 +70,29 @@
 table {
     display: table;
     overflow: auto;
-    padding: 5px;
+    padding: 8px;
 	border-collapse: collapse;
 	border-spacing: 0;
-	border: 1px solid black;
+	border: 1px solid #00274C;
+	color: #FFCB05;
+	margin-bottom: 20px;
 }
 
-td, th {
-	overflow: auto;
-	border: 1px solid black;
+th, td {
+	text-align: left;
+    padding: 10px;
+}
+
+tr:nth-child(odd){
+	background-color: #702082}
+
+th {
+	border: 1px solid #00274C;
+	background-color: #2F65A7;
+	color: #FFFFFF;
+}
+
+td {
+	border: 1px solid #00274C;
+	color: #FFCB05;
 }

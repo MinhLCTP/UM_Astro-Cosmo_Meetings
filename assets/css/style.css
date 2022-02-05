@@ -99,6 +99,10 @@ td {
 	color: #FFCB05;
 }
 
-.table a {
+td a, a:hover, a:active {
 	color: #FFFFFF;
+}
+
+td a:visited {
+	color: #989C97;
 }
